@@ -1,0 +1,22 @@
+{
+  "name": "displaytodaydate",
+  "version": "1.0.0",
+  "description": "displaytodaydate fetching plugin for your vue application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balasubramanian20/displaytodaydate.git"
+  },
+  "keywords": [
+    "today"
+  ],
+  "author": "Balasubramanian",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Balasubramanian20/displaytodaydate/issues"
+  },
+  "homepage": "https://github.com/Balasubramanian20/displaytodaydate#readme"
+}
