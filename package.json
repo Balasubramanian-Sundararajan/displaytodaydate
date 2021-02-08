@@ -1,8 +1,8 @@
 {
-  "name": "displaytodaydate",
+  "name": "displaytodaydateplugin",
   "version": "1.0.0",
   "description": "displaytodaydate fetching plugin for your vue application",
-  "main": "index.js",
+  "main": "displaytodaydate.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,7 +14,7 @@
     "today"
   ],
   "author": "Balasubramanian",
-  "license": "UNLICENSED",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Balasubramanian20/displaytodaydate/issues"
   },
