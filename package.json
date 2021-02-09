@@ -2,7 +2,6 @@
   "name": "@balasubramanian20/displaytodaydate",
   "version": "1.0.0",
   "description": "displaytodaydate fetching plugin for your vue application",
-  "github":"https://github.com/Balasubramanian20/displaytodaydate",
   "main": "displaytodaydate.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +18,5 @@
   "bugs": {
     "url": "https://github.com/Balasubramanian20/displaytodaydate/issues"
   },
-  "homepage": "https://github.com/Balasubramanian20/displaytodaydate"
+  "homepage": "https://github.com/Balasubramanian20/displaytodaydate#readme"
 }
